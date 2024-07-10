@@ -53,3 +53,4 @@ Refer to the [Vite Deployment Guide](https://vitejs.dev/guide/static-deploy) for
 
 This project is licensed under the MIT License.
 
+deploy2
